@@ -1,0 +1,10 @@
+body {
+    background-image: url("200.gif");
+    background-position: center;
+    background-size: cover;
+}
+
+h1,
+h4 {
+    color: white !important;
+}
